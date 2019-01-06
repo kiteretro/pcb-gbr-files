@@ -1,7 +1,5 @@
-# Circuit-Sword-PCBs
-A collection of useful PCB files for the Circuit-Sword projects that can be accessed by browsing through the directories at this level. There is a preview for each PCB and a zip of the gerber files.
+# Printed Circuit Board Gerber Files
+A collection of PCB Gerber files for the Circuit Sword's back button boards. Each folder contains a preview of the PCB and a .zip containing its Gerber files, which can be uploaded to a PCB fabricator (OSHPark, DirtyPCBs, ALLPCB, etc.).
 
 # License
-* These files are provided AS IS and should be used for a customer to upload to a PCB fabricator (OSHPark, DirtyPCBs, ALLPCB, etc) and SHOULD NOT be sold commercially
-* These files are not to be sold
-* These files can be modified but credit must always be given (linked to this GitHub repo)
+These files are provided "AS IS". The files and any PCBs created using them cannot be sold commercially. The files can be modified but credit must always be given to kiteretro by linking to this GitHub repository.
